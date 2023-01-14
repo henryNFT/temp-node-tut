@@ -1,0 +1,2 @@
+Here is the result : Hello this is first ext file, Hello this is second ext fileHere is the result 
+: Hello this is first ext file, Hello this is second ext fileHere is the result : Hello this is first ext file, Hello this is second ext fileHere is the result : Hello this is first ext file, Hello this is second ext file
